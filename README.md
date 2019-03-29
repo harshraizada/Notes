@@ -8,3 +8,16 @@ Repo for class notes--graduate school and online.
 
 ## MIT OCW: 
 - MIT 18.650 Statistics for Applications, Fall 2016 (https://www.youtube.com/watch?v=C_W1adH-NVE&index=2&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) 
+
+
+## Coursera: 
+
+
+## Udemy: 
+
+
+
+## EdX: 
+
+
+## Brown: 
