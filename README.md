@@ -1,5 +1,5 @@
 # Notes
-Repo for class notes--graduate school and online. 
+My repo for class notes--graduate school and online! :)  
 
 ## UChicago MSc in Analytics: 
 - R Workshop (https://grahamschool.uchicago.edu/course/msca-37006-r-workshop) 
