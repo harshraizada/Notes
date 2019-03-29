@@ -9,6 +9,7 @@ This is a repo for some of the most useful statistics notes, textbooks, courses,
 
 
 # Books: 
+- All of Statistics (Wasserman, Larry, 2003) -->  http://static.stevereads.com/papers_to_read/all_of_statistics.pdf
 
 
 
