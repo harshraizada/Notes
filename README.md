@@ -27,3 +27,4 @@ My repo for class notes--graduate school and online! :)
 
 
 ## Brown: 
+- Introduction to Econometrics
