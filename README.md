@@ -31,3 +31,4 @@ My repo for **data science** class notes--graduate school and online! :)
 
 ## Brown: 
 - Introduction to Econometrics
+- MATH 0100 (https://sites.google.com/a/brown.edu/sp18-math0100/) 
