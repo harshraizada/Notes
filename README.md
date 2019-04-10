@@ -23,6 +23,8 @@ My repo for class notes--graduate school and online! :)
 - Python for Data Science and Machine Learning (https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5733432?start=0#overview) 
 
 
+## Udacity: 
+- Data Structures & Algorithms (https://classroom.udacity.com/courses/ud513)
 
 ## EdX: 
 
