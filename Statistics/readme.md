@@ -1,7 +1,7 @@
 This is a repo for some of the most useful statistics notes, textbooks, courses, and resources that I used when learning statistics for data science.
 
 # Resources: 
-- Course website --> https://ilykei.com/course/56056046f7bd4d1900258959/lecture/5612e3167c90fd16007ddfcc/document
+- **Course website** --> https://ilykei.com/course/56056046f7bd4d1900258959/lecture/5612e3167c90fd16007ddfcc/document
 
 
 
